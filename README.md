@@ -10,11 +10,6 @@ Linguagem utilizada: React Native + EXPO + APIs em Python.
 ![Logo](https://i.imgur.com/bQqaCAD.png)
 
 
-## Screenshots
-
-![App Screenshot](https://i.imgur.com/p0LLW00.jpg)
-
-
 ## Autores
 
 - [@gunichi](https://www.github.com/gunichi)
